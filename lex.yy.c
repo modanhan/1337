@@ -1256,7 +1256,7 @@ YY_RULE_SETUP
 case 87:
 YY_RULE_SETUP
 #line 97 "1337.flex"
-{;}
+{s+=yytext;}
 	YY_BREAK
 case 88:
 YY_RULE_SETUP
