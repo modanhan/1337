@@ -13,4 +13,4 @@ The exact specification of the language is listed in the file 1337.txt
 
 I'm pretty sure the language conversion is bijective, but I could be wrong..
 
-1337 |-|//-\\\\><0|2
+1337 h4x0r
